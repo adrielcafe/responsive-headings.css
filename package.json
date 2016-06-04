@@ -1,0 +1,23 @@
+{
+  "name": "responsive-headings",
+  "version": "1.0.0",
+  "description": "A collection of media queries to bring responsiveness to headings",
+  "main": "responsive-headings.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "heading",
+    "responsive"
+  ],
+  "author": "Adriel Café",
+  "license": "MIT"
+}
