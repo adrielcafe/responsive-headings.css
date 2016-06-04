@@ -5,19 +5,22 @@ responsive-headings.css is a collection of media queries created by [@Sajonara](
 
 *Check out this [issue](https://github.com/Dogfalo/materialize/issues/2684) to know more.*
 
+### Demo
+Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
+
+### NPM
+```
+  npm install responsive-headings --save-dev
+```
+
 ### CDN
 ```html
   <link rel="stylesheet" href="https://cdn.rawgit.com/adrielcafe/responsive-headings.css/master/responsive-headings.min.css">
 ```
 
-or
-
-
+### Local Import
 ```html
   <link rel="stylesheet" href="responsive-headings.min.css">
 ```
 
 This is all you have to do!
-
-### Demo
-Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
