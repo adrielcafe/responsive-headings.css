@@ -5,12 +5,19 @@ responsive-headings.css is a collection of media queries created by [@Sajonara](
 
 *Check out this [issue](https://github.com/Dogfalo/materialize/issues/2684) to know more.*
 
-### Demo
+## Demo
 Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
+
+## Installation
 
 ### NPM
 ```
   npm install responsive-headings --save-dev
+```
+
+### Bower
+```
+  bower install responsive-headings
 ```
 
 ### CDN
