@@ -1,8 +1,16 @@
 {
   "name": "responsive-headings",
   "version": "1.0.0",
-  "description": "A collection of media queries to bring responsiveness to headings",
-  "main": "responsive-headings.js",
+  "author": "Adriel Café <me@adriel.cafe>",
+  "license": "MIT",
+  "homepage": "https://github.com/adrielcafe/responsive-headings.css",
+  "description": "Bring responsiveness to HTML headings",
+  "keywords": [
+    "css",
+    "heading",
+    "responsive"
+  ],
+  "main": "responsive-headings.min.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -13,11 +21,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "css",
-    "heading",
-    "responsive"
-  ],
-  "author": "Adriel Café",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrielcafe/responsive-headings.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrielcafe/responsive-headings.css/issues"
+  }
 }
