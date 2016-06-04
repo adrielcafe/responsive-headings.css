@@ -1,0 +1,26 @@
+{
+  "name": "responsive-headings",
+  "authors": [
+    "Adriel Café <me@adriel.cafe>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/adrielcafe/responsive-headings.css",
+  "description": "Bring responsiveness to HTML headings",
+  "keywords": [
+    "css",
+    "heading",
+    "responsive"
+  ],
+  "main": "responsive-headings.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrielcafe/responsive-headings.css.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

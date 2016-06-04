@@ -10,7 +10,7 @@
     "heading",
     "responsive"
   ],
-  "main": "responsive-headings.min.js",
+  "main": "responsive-headings.css",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
