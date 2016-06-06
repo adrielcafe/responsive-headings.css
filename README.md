@@ -1,9 +1,13 @@
 # responsive-headings.css
+[![bower](https://img.shields.io/bower/v/responsive-headings.svg?maxAge=2592000)](http://bower.herokuapp.com/packages/responsive-headings)
+[![npm](https://img.shields.io/npm/v/responsive-headings.svg?maxAge=2592000)](https://npmjs.com/package/responsive-headings)
+[![license](https://img.shields.io/npm/l/responsive-headings.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
+[![downloads](https://img.shields.io/npm/dt/responsive-headings.svg?maxAge=2592000)]()
+[![size](https://img.shields.io/badge/size-~1kb-brightgreen.svg)](https://github.com/adrielcafe/responsive-headings.css/blob/master/responsive-headings.min.css)
+
 > Bring responsiveness to HTML headings
 
-responsive-headings.css is a collection of media queries created by [@Sajonara](https://github.com/Sajonara) as a suggestion to improve the [Materialize](http://materializecss.com/) CSS Framework.
-
-*Check out this [issue](https://github.com/Dogfalo/materialize/issues/2684) to know more.*
+responsive-headings.css is a tiny CSS boilerplate to make HTML headings responsive
 
 ### Demo
 Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
@@ -22,10 +26,10 @@ Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
 
 **CDN**
 ```html
-  <link rel="stylesheet" href="https://cdn.rawgit.com/adrielcafe/responsive-headings.css/master/responsive-headings.min.css">
+  <link rel="stylesheet" href="https://npmcdn.com/responsive-headings/responsive-headings.min.css">
 ```
 
-**Local Import**
+**Local Setup**
 ```html
   <link rel="stylesheet" href="responsive-headings.min.css">
 ```

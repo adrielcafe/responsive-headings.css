@@ -9,7 +9,8 @@
   "keywords": [
     "css",
     "heading",
-    "responsive"
+    "responsive",
+    "media-query"
   ],
   "main": "responsive-headings.css",
   "repository": {

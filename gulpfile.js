@@ -9,9 +9,11 @@ gulp.task('server', ['minify'], function() {
 
 gulp.task('minify', function () {
   return gulp.src('./responsive-headings.css')
-    .pipe(cssnano())
+    .pipe(cssnano({discardComments: false}))
     .pipe(rename({suffix: '.min'}))
     .pipe(gulp.dest('./'));
 });
 
-gulp.task('default', ['server']);
+gulp.task('default', ['server'], function(){
+	gulp.watch('./responsive-headings.css', ['minify']);
+});
