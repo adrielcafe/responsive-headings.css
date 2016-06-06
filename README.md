@@ -2,7 +2,7 @@
 [![bower](https://img.shields.io/bower/v/responsive-headings.svg?maxAge=3600)](http://bower.herokuapp.com/packages/responsive-headings)
 [![npm](https://img.shields.io/npm/v/responsive-headings.svg?maxAge=3600)](https://npmjs.com/package/responsive-headings)
 [![license](https://img.shields.io/npm/l/responsive-headings.svg?maxAge=3600)](https://opensource.org/licenses/MIT)
-[![downloads](https://img.shields.io/npm/dt/responsive-headings.svg?maxAge=3600)]()
+[![downloads](https://img.shields.io/npm/dt/responsive-headings.svg?maxAge=3600)](https://github.com/adrielcafe/responsive-headings.css/releases)
 [![size](https://img.shields.io/badge/size-~600b-brightgreen.svg)](https://github.com/adrielcafe/responsive-headings.css/blob/master/responsive-headings.min.css)
 
 > Bring responsiveness to HTML headings
