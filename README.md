@@ -16,12 +16,12 @@ Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
 
 **NPM**
 ```
-  npm install responsive-headings --save-dev
+  npm install responsive-headings --save
 ```
 
 **Bower**
 ```
-  bower install responsive-headings
+  bower install responsive-headings --save
 ```
 
 **CDN**
