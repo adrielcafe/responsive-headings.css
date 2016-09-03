@@ -26,7 +26,7 @@ Live demo on [CodePen](http://codepen.io/adrielcafe/full/GqJxdr/)
 
 **CDN**
 ```html
-  <link rel="stylesheet" href="https://npmcdn.com/responsive-headings/responsive-headings.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/responsive-headings/responsive-headings.min.css">
 ```
 
 **Local Setup**
